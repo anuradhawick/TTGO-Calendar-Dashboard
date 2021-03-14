@@ -5,7 +5,8 @@ However, it is often quite distracting to check the calendar on phone throughout
 
 ## Demo
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fanuradha.sanjeewa%2Fvideos%2F10225090531480343%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+[![Video](fire-loader.gif)](https://www.youtube.com/watch?v=UeIKG7IA8rQ)
+
 
 ## Features
 
