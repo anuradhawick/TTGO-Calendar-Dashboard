@@ -43,7 +43,7 @@ Simply commend out the `DEAP_MODE` flag if you're using home WiFi. In that case 
 ## Notes
 * Using HTTP/1.0 since the data payloads over HTTP is short and no need of chunking is needed.
 * Implemented a simple and short HTTPS redirect manager to reduce program memeory usage.
-* Animation takes the most Flash space ~ 800kb.
+* Animation takes the most Flash space ~ 800kb. Check file `fire-loader.gif` attached as demo video thumbnail. I have skipped frames to bring it down in space.
 * Use python CV2 to convert JPEG frames to RGB565 images. You need to swap R,B channels to obtain proper colours. Check below for code!
 
 ## TODO
