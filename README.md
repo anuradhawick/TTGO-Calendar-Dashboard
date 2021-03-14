@@ -39,7 +39,7 @@ Simply commend out the `DEAP_MODE` flag if you're using home WiFi. In that case 
 * Using HTTP/1.0 since the data payloads over HTTP is short and no need of chunking is needed.
 * Implemented a simple and short HTTPS redirect manager to reduce program memeory usage.
 * Animation takes the most Flash space ~ 800kb.
-* Use python CV2 to convert JPEG frames to RGB565 images. You need to swap R,B channels to obtain proper colours. *
+* Use python CV2 to convert JPEG frames to RGB565 images. You need to swap R,B channels to obtain proper colours. Check below for code!
 
 ## TODO
 
@@ -47,7 +47,7 @@ Simply commend out the `DEAP_MODE` flag if you're using home WiFi. In that case 
 * Buzzer Alarms
 * Implement on M5Stick Plus
 
-### Code for image conversion
+## Code for image conversion
 
 ```python
 import cv2
