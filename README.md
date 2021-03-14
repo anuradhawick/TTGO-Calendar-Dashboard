@@ -3,6 +3,10 @@
 This was built as I was getting busy a schedule and Google calendar was becoming an important part of me being organized.
 However, it is often quite distracting to check the calendar on phone throughout the day. There were plenty of occassions that I almost missed meetings. Here's the solution.
 
+## Demo
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fanuradha.sanjeewa%2Fvideos%2F10225090531480343%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
 ## Features
 
 * Fetch events from the google calendar using a gscript.
