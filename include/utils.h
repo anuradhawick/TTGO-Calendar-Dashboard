@@ -1,3 +1,9 @@
+/**
+    TTGO-Calendar-Dashboard
+    @file utils.h
+    @author Anuradha Wickramarachchi
+*/
+
 #include <WiFiClientSecure.h>
 #include <ArduinoJson.h>
 
