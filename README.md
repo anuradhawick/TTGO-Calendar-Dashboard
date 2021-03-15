@@ -55,6 +55,17 @@ Simply commend out the `DEAP_MODE` flag if you're using home WiFi. In that case 
 ## Code for image conversion
 
 ```python
+##################################################
+## Convert JPEG images in a folder to a .c file 
+## with RGB 565 16bit encoding
+##################################################
+## MIT License
+##################################################
+## Author: Anuradha Wickramarachchi
+## Copyright: Copyright 2021, TTGO-Calendar Dashboard
+## Email: anuradhawick@gmail.com
+##################################################
+
 import cv2
 from glob import glob
 import numpy as np
